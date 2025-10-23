@@ -1,0 +1,17 @@
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.exe
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.deps.json
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.runtimeconfig.json
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.dll
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.pdb
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.frmInventoryMaint.resources
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.frmNewItem.resources
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.AssemblyInfo.cs
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.dll
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\refint\InventoryMaintenance.dll
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.pdb
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.genruntimeconfig.cache
+H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\ref\InventoryMaintenance.dll
