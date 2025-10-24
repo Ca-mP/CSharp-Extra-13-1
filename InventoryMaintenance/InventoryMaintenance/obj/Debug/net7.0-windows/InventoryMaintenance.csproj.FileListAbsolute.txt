@@ -15,3 +15,20 @@ H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review E
 H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.pdb
 H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.genruntimeconfig.cache
 H:\C#-20250819T190442Z-1-001\C#\Review Exercises-20250825T183730Z-1-001\Review Exercises\ch13\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\ref\InventoryMaintenance.dll
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.exe
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.deps.json
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.runtimeconfig.json
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.dll
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\bin\Debug\net7.0-windows\InventoryMaintenance.pdb
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.frmInventoryMaint.resources
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.frmNewItem.resources
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.dll
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\refint\InventoryMaintenance.dll
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.pdb
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\InventoryMaintenance.genruntimeconfig.cache
+C:\Users\ckpatterson1s\Downloads\CSharp-Extra-13-1-main\CSharp-Extra-13-1-main\InventoryMaintenance\InventoryMaintenance\obj\Debug\net7.0-windows\ref\InventoryMaintenance.dll

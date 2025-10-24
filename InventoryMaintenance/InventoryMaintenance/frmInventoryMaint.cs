@@ -7,6 +7,7 @@ namespace InventoryMaintenance
         public frmInventoryMaint()
         {
             InitializeComponent();
+
         }
 
         private InventoryItemList items = new();
@@ -71,9 +72,9 @@ namespace InventoryMaintenance
             this.Close();
         }
 
-        void HandlerName(InventoryItemList list)
+        void ChangeHandler(InventoryItemList list)
         {
-
+               
         }
 
     }
