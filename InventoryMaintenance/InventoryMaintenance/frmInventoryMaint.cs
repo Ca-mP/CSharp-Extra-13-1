@@ -3,6 +3,7 @@ namespace InventoryMaintenance
 
     public partial class frmInventoryMaint : Form
     {
+
         public frmInventoryMaint()
         {
             InitializeComponent();
@@ -69,5 +70,11 @@ namespace InventoryMaintenance
         {
             this.Close();
         }
+
+        void HandlerName(InventoryItemList list)
+        {
+
+        }
+
     }
 }

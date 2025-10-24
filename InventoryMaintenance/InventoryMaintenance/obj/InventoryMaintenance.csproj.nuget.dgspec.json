@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#-20250819T190442Z-1-001\\C#\\Review Exercises-20250825T183730Z-1-001\\Review Exercises\\ch13\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj": {}
+    "C:\\Users\\tPalen1s\\Documents\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj": {}
   },
   "projects": {
-    "H:\\C#-20250819T190442Z-1-001\\C#\\Review Exercises-20250825T183730Z-1-001\\Review Exercises\\ch13\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj": {
+    "C:\\Users\\tPalen1s\\Documents\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#-20250819T190442Z-1-001\\C#\\Review Exercises-20250825T183730Z-1-001\\Review Exercises\\ch13\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj",
+        "projectUniqueName": "C:\\Users\\tPalen1s\\Documents\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj",
         "projectName": "InventoryMaintenance",
-        "projectPath": "H:\\C#-20250819T190442Z-1-001\\C#\\Review Exercises-20250825T183730Z-1-001\\Review Exercises\\ch13\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj",
-        "packagesPath": "C:\\Users\\ckpatterson1s\\.nuget\\packages\\",
-        "outputPath": "H:\\C#-20250819T190442Z-1-001\\C#\\Review Exercises-20250825T183730Z-1-001\\Review Exercises\\ch13\\InventoryMaintenance\\InventoryMaintenance\\obj\\",
+        "projectPath": "C:\\Users\\tPalen1s\\Documents\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj",
+        "packagesPath": "C:\\Users\\tPalen1s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tPalen1s\\Documents\\InventoryMaintenance\\InventoryMaintenance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ckpatterson1s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tPalen1s\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -86,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

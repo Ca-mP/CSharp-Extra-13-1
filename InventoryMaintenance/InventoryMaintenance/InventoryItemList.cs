@@ -44,13 +44,14 @@ namespace InventoryMaintenance
         public static InventoryItemList operator +(InventoryItemList list, InventoryItem item)
         {
             list.Add(item);
-            
+            list.changed?.Invoke(list);
             return list;
         }
 
         public static InventoryItemList operator -(InventoryItemList list, InventoryItem item)
         {
             list.Remove(item);
+            list.changed?.Invoke(list);
             return list;
         }
 
